@@ -17,19 +17,19 @@ ________________________________________________________________________________
 
 git status git commands
 ___________________________________________________________________________________________
-1. git init
+1. git init -->
 This creates a .git folder on our project folder that means git is initialized.
 
-2. git status
+2. git status -->
 This shows all the folders that are not added to git.
 
-3. git add -all
+3. git add -all -->
 This adds all the files to git.
 
 4. git commit -m "commit message" ---> eg: git commit -m "First Commit, Student Registration System"
 This commits all folders to git.
 
-5. git log
+5. git log -->
 This shows the log of all commits in our repository. This displays most recent commits first.
 ________________________________________________________________________________________________________________________________
 Now we need to push our existing repository. First, we will need to add push our remote origin which is our remote
