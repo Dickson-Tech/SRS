@@ -1,4 +1,4 @@
-# SRS
+# STEPS TO POST THE LOCAL DJANGO PROJECT TO GITHUB REPOSITORY
 Student Registration System
 
 ___________________________________________________________
