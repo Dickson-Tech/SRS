@@ -231,3 +231,5 @@ or Use this: *git push origin master*
 ________________________________________________________________________________________________________________________________
 Now we can see your project on your GitHub repository.
 
+## **POWERED BY PNG INSPIRA TECHNOLOGY**
+
